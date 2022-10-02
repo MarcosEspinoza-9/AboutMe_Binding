@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Marcos Espinoza Chagolla</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hola Soy Marcos Espinoza Chagolla
+        \n\n Me gusta hacer ejercicio
+        \n\n Me gusta ir al gym y los videojuegos
+        \n\n Tengo 25 años, nacie en moroleon guanajuato el 7 de agosto
+        \n\n Estoy estudiando sistemas computacionales en el itsur
+        \n\n Mi comida favorita es la pasta
+        \n\n Tengo una hermana menor
+        \n\n Tengo una moto
+        \n\n Me gusta salir en la cross
+        \n\n No tengo novia
+        \n\n Tengo muchas amigas
+        \n\n Soy alto y de ojos cafes
+        \n\n \n\n
+
+    </string>
+
+</resources>
